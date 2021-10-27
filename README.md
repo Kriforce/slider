@@ -1,1 +1,1 @@
-# slider
+https://kriforce.github.io/slider/
